@@ -1,0 +1,23 @@
+# IntelliJ
+.idea/
+*.iml
+
+# VS Code
+.vscode/
+
+# Mac
+.DS_Store
+
+# Logs
+*.log
+
+# Java Build
+target/
+
+# React / Node
+node_modules/
+dist/
+build/
+
+# Environment Variables
+.env
